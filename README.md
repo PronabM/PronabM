@@ -1,16 +1,13 @@
-### Hi there 👋
+<h1 align="center">Hi 👋, I'm Pronab</h1>
 
-<!--
-**PronabM/PronabM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🌱 I’m currently learning **Flutter**
 
-Here are some ideas to get you started:
+- 📫 Reach me **pronab.mukherjee.96@gmail.com**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- ⚡ Fun fact **I am a Self-Certified Overthinker 😄**
+
+<img src="https://github-readme-stats.vercel.app/api?username=PronabM&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=191919">
+
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PronabM&theme=dark&hide_langs_below=1"/>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=PronabM&theme=dark" alt="PronabM" /></p>
